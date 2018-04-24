@@ -3,7 +3,7 @@
 # variables
 # Rafael Serrano 4/23/2018
 
-cars = 100
+cars = 120
 space_in_a_car = 4.0
 drivers = 30
 passengers = 90

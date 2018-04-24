@@ -1,6 +1,6 @@
 print "I will now count my chickens:"
 
-#Remeber the order of oerations: PEMDAS multiplication, division and modulus computes first
+#Remember the order of operations: PEMDAS multiplication, division and modulus computes first
 print "Hens", 25 + 30 /6
 print "roosters", 100 - 25 * 3 % 4
 
